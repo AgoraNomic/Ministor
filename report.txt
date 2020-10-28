@@ -51,11 +51,17 @@ I grant a Victory Point to each of: Aris, Jason, Gaelan.
 Economy Coins
 =============
 
-Economy focused players evenly split a pot of 50 coins.
+Economy focused players evenly split a pot of 50 boatloads of coins.
 
 ------------------------------------------------------------------------
-There are 5 economy focused players, each one may grant emself 12 coins.
+The pot is currently about 121.38 coins* total.
+
+There are 5 economy focused players, each one may grant emself 25 coins.
 ------------------------------------------------------------------------
+
+* Note: This represents an intermediate value in a calculation, and is 
+rounded to the hundredths on this report for readability. It may not be 
+precise. Only the grantable amount is guaranteed to be accurate.
 
 Office Ministry Interests
 =========================
