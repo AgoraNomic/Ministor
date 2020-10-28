@@ -2,7 +2,7 @@
 |Ministor Pre-Report|
 +-------------------+
 
-Date of this report: 2020-10-28 15:59 UTC
+Date of this report: 2020-10-28 16:06 UTC
 
 Notices
 =======
@@ -22,15 +22,16 @@ Player Ministry Focuses
 
 Focus grants a monthly bonus:
 
+* Unfocused - nothing, just the default
 * Compliance - grant yourself a Justice card
 * Legislation - grant yourself a Legislative card
 * Participation - grant yourself a Voting card
-* Unfocused - grant yourself a split of the coin pot (exact amount listed 
+* Economy - grant yourself a split of the coin pot (exact amount listed 
   below in its own section)
 * Legacy - be granted a card or victory point, randomly (winner listed 
   below in its own section)
 
-You may Plan To Flip your own focus by announcement - it will be flipped 
+You can Plan To Flip your own focus by announcement - it will be flipped 
 at the start of the next month.
 
 ------------------------------------------------------------------------
@@ -39,6 +40,8 @@ by announcement before the end of the month!!
 
 ------------------------------------------------------------------------
 Compliance (0): 
+
+Economy (0): 
 
 Legacy (0): 
 
@@ -65,15 +68,15 @@ I grant a Victory Point to each of: .
 focused players during the generation of this report. See the full 
 script at https://github.com/AgoraNomic/Ministor
 
-Unfocused Coins
+Economy Coins
 =============
 
-Unfocused focused players evenly split a pot of 50 boatloads of coins.
+Economy focused players evenly split a pot of 50 boatloads of coins.
 
 ------------------------------------------------------------------------
 The pot is currently about 119.0 coins* total.
 
-There are 19 Unfocused focused players, each one may grant emself 7 coins.
+There are 0 Economy focused players, each one may grant emself an undefined amount of coins.
 ------------------------------------------------------------------------
 
 * Note: This represents an intermediate value in a calculation, and is 
@@ -95,14 +98,14 @@ Coopor           Participation
 Distributor      Participation
 Herald           Participation
 Ministor         
-Notary           Unfocused, Participation
-Prime Minister   Compliance, Participation, Legislation, Participation, Unfocused
+Notary           Economy, Participation
+Prime Minister   Compliance, Participation, Legislation, Participation, Economy
 Promotor         Legislation
 Referee          Compliance
 Registrar        Participation
 Rulekeepor       Legislation, Participation
-Speaker          Compliance, Participation, Legislation, Participation, Unfocused
+Speaker          Compliance, Participation, Legislation, Participation, Economy
 Tailor           Participation
-Treasuror        Unfocused, Unfocused
+Treasuror        Economy, Economy
 Webmastor        Participation
 ------------------------------------------------------------------------
