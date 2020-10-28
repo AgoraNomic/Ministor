@@ -34,6 +34,9 @@ at the start of the next month.
 ------------------------------------------------------------------------
 !!All players are currently UnFocused. Please remember to Plan To Flip 
 by announcement before the end of the month!!
+
+------------------------------------------------------------------------
+{focus_table}
 ------------------------------------------------------------------------
 
 Victory Card

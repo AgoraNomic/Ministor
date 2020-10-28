@@ -34,6 +34,29 @@ at the start of the next month.
 ------------------------------------------------------------------------
 !!All players are currently UnFocused. Please remember to Plan To Flip 
 by announcement before the end of the month!!
+
+------------------------------------------------------------------------
+
+ATMunn: Participation
+Aris: Unfocused
+Cuddlebeam: Economy
+Falsifian: Compliance
+Fred: Economy
+G.: Legacy
+Gaelan: Legacy
+Jason: Compliance
+Murphy: Participation
+Nathan: Unfocused
+Publius Scribonius Scholasticus: Legislation
+R. Lee: Economy
+Shelvacu: Unfocused
+Trigon: Economy
+Tyler: Compliance
+Zyborg: Legacy
+grok: Legacy
+nix: Legislation
+omd: Unfocused
+
 ------------------------------------------------------------------------
 
 Victory Card
@@ -43,9 +66,9 @@ One random legacy focused player receives a Victory Card; the others
 receive a Victory Point.
 
 ------------------------------------------------------------------------
-I grant a Victory Card to nix.
+I grant a Victory Card to Gaelan.
 
-I grant a Victory Point to each of: Aris, Gaelan, ATMunn.
+I grant a Victory Point to each of: G., grok, Zyborg.
 ------------------------------------------------------------------------
 
 Economy Coins
@@ -54,9 +77,9 @@ Economy Coins
 Economy focused players evenly split a pot of 50 boatloads of coins.
 
 ------------------------------------------------------------------------
-The pot is currently about 121.38 coins* total.
+The pot is currently about 119.0 coins* total.
 
-There are 5 economy focused players, each one may grant emself 25 coins.
+There are 4 economy focused players, each one may grant emself 30 coins.
 ------------------------------------------------------------------------
 
 * Note: This represents an intermediate value in a calculation, and is 

@@ -1,0 +1,19 @@
+omd,Unfocused
+Aris,Unfocused
+Gaelan,Legacy
+G.,Legacy
+Cuddlebeam,Economy
+Trigon,Economy
+Murphy,Participation
+ATMunn,Participation
+Falsifian,Compliance
+Jason,Compliance
+nix,Legislation
+Publius Scribonius Scholasticus,Legislation
+grok,Legacy
+Tyler,Compliance
+Zyborg,Legacy
+R. Lee,Economy
+Fred,Economy
+Shelvacu,Unfocused
+Nathan,Unfocused
