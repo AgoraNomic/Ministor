@@ -11,7 +11,7 @@ timestamp = str(now.year) + "-" + str(now.month) + "-" + str(now.day) + " " + st
 # Import focuses
 focuses = {}
 
-focus_lists = {"Unfocused": [], "Legacy": [], "Participation": [], "Compliance": [], "Unfocused": [], "Legislation": []}
+focus_lists = {"Unfocused": [], "Legacy": [], "Participation": [], "Compliance": [], "Economy": [], "Legislation": []}
 
 max_name_len = 0
 max_focus_len = 0
@@ -63,7 +63,7 @@ runner_ups = ", ".join(legacy_players)
 # Calculate Econ stuff
 boatloads = 2.38
 econ_pot = 50 * boatloads
-econ_players = len(focus_lists["Unfocused"])
+econ_players = len(focus_lists["Economy"])
 if econ_players == 0:
     econ_split = "an undefined amount of"
 else:
