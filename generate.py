@@ -1,11 +1,17 @@
 from random import choice
 from math import ceil
 from csv import reader
+from datetime import datetime, timezone
+
+# Determine timestamp
+now = datetime.now(timezone.utc)
+report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
+timestamp = str(now.year) + "-" + str(now.month) + "-" + str(now.day) + " " + str(now.hour).zfill(2) + ":" + str(now.minute).zfill(2)
 
 # Import focuses
 focuses = {}
 
-focus_lists = {"Unfocused": [], "Legacy": [], "Participation": [], "Compliance": [], "Economy": [], "Legislation": []}
+focus_lists = {"Unfocused": [], "Legacy": [], "Participation": [], "Compliance": [], "Unfocused": [], "Legislation": []}
 
 max_name_len = 0
 max_focus_len = 0
@@ -13,10 +19,7 @@ max_focus_len = 0
 with open('focuses.txt', 'r') as infile:
     infocuses = reader(infile, delimiter=',', quotechar="\"")
     for row in infocuses:
-        focuses[row[0]] = row[1]
         focus_lists[row[1]].append(row[0])
-        #max_name_len = max(max_name_len, len(row[0]))
-        #max_focus_len = max(max_focus_len, len(row[1]))
 
 # Build focus table
 focus_table = ""
@@ -25,9 +28,6 @@ for key in sorted(focus_lists.keys()):
     focus_table += key + " (" + str(len(focus_lists[key])) + "): " + ", ".join(sorted(focus_lists[key])) + "\n\n"
 
 focus_table = focus_table[:-2]
-
-#for key in sorted(focuses.keys()):
-    #focus_table += key.ljust(max_name_len+3) + focuses[key] + "\n"
 
 # Import interests
 interests = {}
@@ -63,7 +63,7 @@ runner_ups = ", ".join(legacy_players)
 # Calculate Econ stuff
 boatloads = 2.38
 econ_pot = 50 * boatloads
-econ_players = len(focus_lists["Economy"])
+econ_players = len(focus_lists["Unfocused"])
 if econ_players == 0:
     econ_split = "an undefined amount of"
 else:
@@ -72,11 +72,11 @@ else:
 # The map
 mapping = {'winner': winner, 'runner_ups': runner_ups, 
            'econ_players': econ_players, 'econ_split': econ_split,
-           'econ_pot': round(econ_pot,2), 'focus_table': focus_table, 'interest_table': interest_table}
+           'econ_pot': round(econ_pot,2), 'focus_table': focus_table, 'interest_table': interest_table, 'timestamp': timestamp}
 
 # Apply the map we built above to the template.
 with open('template.txt', 'r') as infile:
     template = infile.read()
     
-with open('report.txt', 'w') as ofile:
+with open('reports/' + report_name + '.txt', 'w') as ofile:
     ofile.write(template.format_map(mapping))

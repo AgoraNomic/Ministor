@@ -2,6 +2,8 @@
 |Ministor Pre-Report|
 +-------------------+
 
+Date of this report: {timestamp} UTC
+
 Notices
 =======
 
@@ -23,7 +25,7 @@ Focus grants a monthly bonus:
 * Compliance - grant yourself a Justice card
 * Legislation - grant yourself a Legislative card
 * Participation - grant yourself a Voting card
-* Economy - grant yourself a split of the coin pot (exact amount listed 
+* Unfocused - grant yourself a split of the coin pot (exact amount listed 
   below in its own section)
 * Legacy - be granted a card or victory point, randomly (winner listed 
   below in its own section)
@@ -55,15 +57,15 @@ I grant a Victory Point to each of: {runner_ups}.
 focused players during the generation of this report. See the full 
 script at https://github.com/AgoraNomic/Ministor
 
-Economy Coins
+Unfocused Coins
 =============
 
-Economy focused players evenly split a pot of 50 boatloads of coins.
+Unfocused focused players evenly split a pot of 50 boatloads of coins.
 
 ------------------------------------------------------------------------
 The pot is currently about {econ_pot} coins* total.
 
-There are {econ_players} economy focused players, each one may grant emself {econ_split} coins.
+There are {econ_players} Unfocused focused players, each one may grant emself {econ_split} coins.
 ------------------------------------------------------------------------
 
 * Note: This represents an intermediate value in a calculation, and is 

@@ -2,6 +2,8 @@
 |Ministor Pre-Report|
 +-------------------+
 
+Date of this report: 2020-10-28 15:59 UTC
+
 Notices
 =======
 
@@ -23,7 +25,7 @@ Focus grants a monthly bonus:
 * Compliance - grant yourself a Justice card
 * Legislation - grant yourself a Legislative card
 * Participation - grant yourself a Voting card
-* Economy - grant yourself a split of the coin pot (exact amount listed 
+* Unfocused - grant yourself a split of the coin pot (exact amount listed 
   below in its own section)
 * Legacy - be granted a card or victory point, randomly (winner listed 
   below in its own section)
@@ -36,17 +38,15 @@ at the start of the next month.
 by announcement before the end of the month!!
 
 ------------------------------------------------------------------------
-Compliance (3): Falsifian, Jason, Tyler
+Compliance (0): 
 
-Economy (4): Cuddlebeam, Fred, R. Lee, Trigon
+Legacy (0): 
 
-Legacy (4): G., Gaelan, Zyborg, grok
+Legislation (0): 
 
-Legislation (2): P.S.S., nix
+Participation (0): 
 
-Participation (2): ATMunn, Murphy
-
-Unfocused (4): Aris, Nathan, Shelvacu, omd
+Unfocused (19): ATMunn, Aris, Cuddlebeam, Falsifian, Fred, G., Gaelan, Jason, Murphy, Nathan, P.S.S., R. Lee, Shelvacu, Trigon, Tyler, Zyborg, grok, nix, omd
 ------------------------------------------------------------------------
 
 Victory Card
@@ -56,24 +56,24 @@ One random* legacy focused player receives a Victory Card; the others
 receive a Victory Point.
 
 ------------------------------------------------------------------------
-I grant a Victory Card to Zyborg.
+I grant a Victory Card to no one, as there are no legacy focused players.
 
-I grant a Victory Point to each of: Gaelan, G., grok.
+I grant a Victory Point to each of: .
 ------------------------------------------------------------------------
 
 * Chosen by python's random.choice() function from a list of all Victory 
 focused players during the generation of this report. See the full 
 script at https://github.com/AgoraNomic/Ministor
 
-Economy Coins
+Unfocused Coins
 =============
 
-Economy focused players evenly split a pot of 50 boatloads of coins.
+Unfocused focused players evenly split a pot of 50 boatloads of coins.
 
 ------------------------------------------------------------------------
 The pot is currently about 119.0 coins* total.
 
-There are 4 economy focused players, each one may grant emself 30 coins.
+There are 19 Unfocused focused players, each one may grant emself 7 coins.
 ------------------------------------------------------------------------
 
 * Note: This represents an intermediate value in a calculation, and is 
@@ -95,14 +95,14 @@ Coopor           Participation
 Distributor      Participation
 Herald           Participation
 Ministor         
-Notary           Economy, Participation
-Prime Minister   Compliance, Participation, Legislation, Participation, Economy
+Notary           Unfocused, Participation
+Prime Minister   Compliance, Participation, Legislation, Participation, Unfocused
 Promotor         Legislation
 Referee          Compliance
 Registrar        Participation
 Rulekeepor       Legislation, Participation
-Speaker          Compliance, Participation, Legislation, Participation, Economy
+Speaker          Compliance, Participation, Legislation, Participation, Unfocused
 Tailor           Participation
-Treasuror        Economy, Economy
+Treasuror        Unfocused, Unfocused
 Webmastor        Participation
 ------------------------------------------------------------------------

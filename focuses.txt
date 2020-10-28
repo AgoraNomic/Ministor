@@ -1,19 +1,19 @@
 omd,Unfocused
 Aris,Unfocused
-Gaelan,Legacy
-G.,Legacy
-Cuddlebeam,Economy
-Trigon,Economy
-Murphy,Participation
-ATMunn,Participation
-Falsifian,Compliance
-Jason,Compliance
-nix,Legislation
-P.S.S.,Legislation
-grok,Legacy
-Tyler,Compliance
-Zyborg,Legacy
-R. Lee,Economy
-Fred,Economy
+Gaelan,Unfocused
+G.,Unfocused
+Cuddlebeam,Unfocused
+Trigon,Unfocused
+Murphy,Unfocused
+ATMunn,Unfocused
+Falsifian,Unfocused
+Jason,Unfocused
+nix,Unfocused
+P.S.S.,Unfocused
+grok,Unfocused
+Tyler,Unfocused
+Zyborg,Unfocused
+R. Lee,Unfocused
+Fred,Unfocused
 Shelvacu,Unfocused
 Nathan,Unfocused
