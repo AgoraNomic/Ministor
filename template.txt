@@ -79,7 +79,7 @@ Office Ministry Interests
 Officers have +2 voting strength on proposals with a chamber that 
 matches their office's ministry interests.
 
-Office             Interest
+Office           Interest
 ------------------------------------------------------------------------
 {interest_table}
 ------------------------------------------------------------------------

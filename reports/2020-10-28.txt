@@ -2,7 +2,7 @@
 |Ministor Pre-Report|
 +-------------------+
 
-Date of this report: 2020-10-28 16:06 UTC
+Date of this "report": 2020-10-28 19:29 UTC
 
 Notices
 =======
@@ -35,10 +35,6 @@ You can Plan To Flip your own focus by announcement - it will be flipped
 at the start of the next month.
 
 ------------------------------------------------------------------------
-!!All players are currently UnFocused. Please remember to Plan To Flip 
-by announcement before the end of the month!!
-
-------------------------------------------------------------------------
 Compliance (0): 
 
 Economy (0): 
@@ -61,7 +57,7 @@ receive a Victory Point.
 ------------------------------------------------------------------------
 I grant a Victory Card to no one, as there are no legacy focused players.
 
-I grant a Victory Point to each of: .
+I grant a Victory Point to each of: [].
 ------------------------------------------------------------------------
 
 * Chosen by python's random.choice() function from a list of all Victory 
@@ -71,17 +67,13 @@ script at https://github.com/AgoraNomic/Ministor
 Economy Coins
 =============
 
-Economy focused players evenly split a pot of 50 boatloads of coins.
+Economy focused players evenly split a pot of 50 coins.
 
 ------------------------------------------------------------------------
-The pot is currently about 119.0 coins* total.
+The pot is currently 50 coins total.
 
 There are 0 Economy focused players, each one may grant emself an undefined amount of coins.
 ------------------------------------------------------------------------
-
-* Note: This represents an intermediate value in a calculation, and is 
-rounded to the hundredths on this report for readability. It may not be 
-precise. Only the grantable amount is guaranteed to be accurate.
 
 Office Ministry Interests
 =========================
@@ -89,7 +81,7 @@ Office Ministry Interests
 Officers have +2 voting strength on proposals with a chamber that 
 matches their office's ministry interests.
 
-Office             Interest
+Office           Interest
 ------------------------------------------------------------------------
 ADoP             Participation
 Arbitor          Compliance

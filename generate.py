@@ -53,15 +53,14 @@ legacy_players = focus_lists["Legacy"]
 
 if len(legacy_players)==0:
     winner = "no one, as there are no legacy focused players"
-    runner_ups = "no one"
 else:
     winner = choice(legacy_players)
     legacy_players.remove(winner)
-    
-runner_ups = ", ".join(legacy_players)
+
+runner_ups = legacy_players
 
 # Calculate Econ stuff
-boatloads = 2.38
+boatloads = 1
 econ_pot = 50 * boatloads
 econ_players = len(focus_lists["Economy"])
 if econ_players == 0:
@@ -69,12 +68,12 @@ if econ_players == 0:
 else:
     econ_split = int(ceil(econ_pot / econ_players))
 
-# The map
+# Map variables to the template's variables
 mapping = {'winner': winner, 'runner_ups': runner_ups, 
            'econ_players': econ_players, 'econ_split': econ_split,
            'econ_pot': round(econ_pot,2), 'focus_table': focus_table, 'interest_table': interest_table, 'timestamp': timestamp}
 
-# Apply the map we built above to the template.
+# Apply the map we built above to the template to build a new report.
 with open('template.txt', 'r') as infile:
     template = infile.read()
     
