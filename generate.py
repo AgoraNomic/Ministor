@@ -2,7 +2,7 @@ from random import choice
 from math import ceil
 
 # Calculate Legacy stuff
-legacy_players = ["Aris", "nix", "Jason", "Gaelan"]
+legacy_players = ["Aris", "nix", "Gaelan", "ATMunn"]
 winner = choice(legacy_players)
 legacy_players.remove(winner)
 runner_ups = ", ".join(legacy_players)
