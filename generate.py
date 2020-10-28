@@ -7,21 +7,46 @@ focuses = {}
 
 focus_lists = {"Unfocused": [], "Legacy": [], "Participation": [], "Compliance": [], "Economy": [], "Legislation": []}
 
+max_name_len = 0
+max_focus_len = 0
+
 with open('focuses.txt', 'r') as infile:
     infocuses = reader(infile, delimiter=',', quotechar="\"")
     for row in infocuses:
         focuses[row[0]] = row[1]
         focus_lists[row[1]].append(row[0])
-        
-# Build focus list
+        #max_name_len = max(max_name_len, len(row[0]))
+        #max_focus_len = max(max_focus_len, len(row[1]))
+
+# Build focus table
 focus_table = ""
 
-#for key in focus_lists:
-    #focus_table += "\n"
-    #focus_table += (key + " (" + str(len(focus_lists[key])) + "): " + ", ".join(focus_lists[key]) + "\n")
+for key in sorted(focus_lists.keys()):
+    focus_table += key + " (" + str(len(focus_lists[key])) + "): " + ", ".join(sorted(focus_lists[key])) + "\n\n"
 
-for key in sorted(focuses.keys()):
-    focus_table += key + ": " + focuses[key] + "\n"
+focus_table = focus_table[:-2]
+
+#for key in sorted(focuses.keys()):
+    #focus_table += key.ljust(max_name_len+3) + focuses[key] + "\n"
+
+# Import interests
+interests = {}
+
+max_office_len = 0
+
+with open('interests.txt', 'r') as infile:
+    ininterests = reader(infile, delimiter=',')
+    for row in ininterests:
+        interests[row[0]] = row[1]
+        max_office_len = max(max_office_len, len(row[0]))
+
+# Build interest table
+interest_table = ""
+
+for key in sorted(interests.keys()):
+    interest_table += (key).ljust(max_office_len+3) + interests[key] + "\n"
+
+interest_table = interest_table[:-1]
 
 # Calculate Legacy stuff
 legacy_players = focus_lists["Legacy"]
@@ -47,7 +72,7 @@ else:
 # The map
 mapping = {'winner': winner, 'runner_ups': runner_ups, 
            'econ_players': econ_players, 'econ_split': econ_split,
-           'econ_pot': round(econ_pot,2), 'focus_table': focus_table}
+           'econ_pot': round(econ_pot,2), 'focus_table': focus_table, 'interest_table': interest_table}
 
 # Apply the map we built above to the template.
 with open('template.txt', 'r') as infile:

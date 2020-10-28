@@ -36,40 +36,34 @@ at the start of the next month.
 by announcement before the end of the month!!
 
 ------------------------------------------------------------------------
+Compliance (3): Falsifian, Jason, Tyler
 
-ATMunn: Participation
-Aris: Unfocused
-Cuddlebeam: Economy
-Falsifian: Compliance
-Fred: Economy
-G.: Legacy
-Gaelan: Legacy
-Jason: Compliance
-Murphy: Participation
-Nathan: Unfocused
-Publius Scribonius Scholasticus: Legislation
-R. Lee: Economy
-Shelvacu: Unfocused
-Trigon: Economy
-Tyler: Compliance
-Zyborg: Legacy
-grok: Legacy
-nix: Legislation
-omd: Unfocused
+Economy (4): Cuddlebeam, Fred, R. Lee, Trigon
 
+Legacy (4): G., Gaelan, Zyborg, grok
+
+Legislation (2): P.S.S., nix
+
+Participation (2): ATMunn, Murphy
+
+Unfocused (4): Aris, Nathan, Shelvacu, omd
 ------------------------------------------------------------------------
 
 Victory Card
 ============
 
-One random legacy focused player receives a Victory Card; the others 
+One random* legacy focused player receives a Victory Card; the others 
 receive a Victory Point.
 
 ------------------------------------------------------------------------
-I grant a Victory Card to Gaelan.
+I grant a Victory Card to Zyborg.
 
-I grant a Victory Point to each of: G., grok, Zyborg.
+I grant a Victory Point to each of: Gaelan, G., grok.
 ------------------------------------------------------------------------
+
+* Chosen by python's random.choice() function from a list of all Victory 
+focused players during the generation of this report. See the full 
+script at https://github.com/AgoraNomic/Ministor
 
 Economy Coins
 =============
@@ -94,21 +88,21 @@ matches their office's ministry interests.
 
 Office             Interest
 ------------------------------------------------------------------------
-ADoP               Participation
-Arbitor            Compliance
-Assessor           Participation, Legislation
-Coopor             Participation
-Distributor        Participation
-Herald             Participation
-Ministor           
-Notary             Economy, Participation
-Prime Minister     Compliance, Participation, Legislation, Participation, Economy
-Promotor           Legislation
-Referee            Compliance
-Registrar          Participation
-Rulekeepor         Legislation, Participation
-Speaker            Compliance, Participation, Legislation, Participation, Economy
-Tailor             Participation
-Treasuror          Economy, Economy
-Webmastor          Participation
+ADoP             Participation
+Arbitor          Compliance
+Assessor         Participation, Legislation
+Coopor           Participation
+Distributor      Participation
+Herald           Participation
+Ministor         
+Notary           Economy, Participation
+Prime Minister   Compliance, Participation, Legislation, Participation, Economy
+Promotor         Legislation
+Referee          Compliance
+Registrar        Participation
+Rulekeepor       Legislation, Participation
+Speaker          Compliance, Participation, Legislation, Participation, Economy
+Tailor           Participation
+Treasuror        Economy, Economy
+Webmastor        Participation
 ------------------------------------------------------------------------
