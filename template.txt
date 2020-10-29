@@ -7,7 +7,14 @@ Date of this report: {timestamp} UTC
 Notices
 =======
 
-This is the first official Ministor report. Please be advise that I grant a Victory Card and Victory Points in a section below.
+This is the first official Ministor report. Please be advised that I 
+grant a Victory Card and Victory Points in a section below.
+
+Economy Focused Players: There is a pending proposal (adJustments) that 
+would change the economy pot from 50 coins to 50 boatloads of coins, 
+which would increase the amount of the split (it is determined 
+continuously). Consider waiting to grant yourself your coins until this 
+proposal has been assessed.
 
 Player Ministry Focuses
 =======================
