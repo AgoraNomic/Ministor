@@ -7,15 +7,7 @@ Date of this report: {timestamp} UTC
 Notices
 =======
 
-This is not a report and it does not self-ratify, this is just a listing 
-of current switches and a test of what the actual report will look like.
-
-AS OF RIGHT NOW ALL FOCUSES ARE "UNSET". Make sure to Plan to Flip 
-yours! See below for specifics.
-
-This office now tracks Office Ministry Interests, and many of them have 
-changed. Please review the changes below and be on the look out for 
-upcoming intents to flip some of them.
+This is the first official Ministor report. Please be advise that I grant a Victory Card and Victory Points in a section below.
 
 Player Ministry Focuses
 =======================
@@ -33,10 +25,6 @@ Focus grants a monthly bonus:
 
 You can Plan To Flip your own focus by announcement - it will be flipped 
 at the start of the next month.
-
-------------------------------------------------------------------------
-!!All players are currently UnFocused. Please remember to Plan To Flip 
-by announcement before the end of the month!!
 
 ------------------------------------------------------------------------
 {focus_table}
