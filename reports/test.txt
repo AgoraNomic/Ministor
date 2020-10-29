@@ -2,7 +2,7 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: {timestamp} UTC
+Date of this report: 2020-10-29 21:32 UTC
 
 Notices
 =======
@@ -34,7 +34,17 @@ You can Plan To Flip your own focus by announcement - it will be flipped
 at the start of the next month.
 
 ------------------------------------------------------------------------
-{focus_table}
+Compliance (0): 
+
+Economy (0): 
+
+Legacy (0): 
+
+Legislation (0): 
+
+Participation (0): 
+
+Unfocused (19): ATMunn, Aris, Cuddlebeam, Falsifian, Fred, G., Gaelan, Jason, Murphy, Nathan, P.S.S., R. Lee, Shelvacu, Trigon, Tyler, Zyborg, grok, nix, omd
 ------------------------------------------------------------------------
 
 Victory Card
@@ -44,9 +54,9 @@ One random* legacy focused player receives a Victory Card; the others
 receive a Victory Point.
 
 ------------------------------------------------------------------------
-I grant a Victory Card to {winner}.
+I grant a Victory Card to no one, as there are no legacy focused players.
 
-I grant a Victory Point to each of: {runner_ups}.
+I grant a Victory Point to each of: [].
 ------------------------------------------------------------------------
 
 * Chosen by python's random.choice() function from a list of all Victory 
@@ -59,9 +69,9 @@ Economy Coins
 Economy focused players evenly split a pot of 50 boatloads of coins.
 
 ------------------------------------------------------------------------
-The pot is currently about {econ_pot} coins* total.
+The pot is currently about 50 coins* total.
 
-There are {econ_players} Economy focused players, each one may grant emself {econ_split} coins.
+There are 0 Economy focused players, each one may grant emself an undefined amount of coins.
 ------------------------------------------------------------------------
 
 * Note: This represents an intermediate value in a calculation, and is 
@@ -76,5 +86,21 @@ matches their office's ministry interests.
 
 Office           Interest
 ------------------------------------------------------------------------
-{interest_table}
+ADoP             Participation
+Arbitor          Compliance
+Assessor         Participation, Legislation
+Coopor           Participation
+Distributor      Participation
+Herald           Participation
+Ministor         
+Notary           Economy, Participation
+Prime Minister   Compliance, Participation, Legislation, Participation, Economy
+Promotor         Legislation
+Referee          Compliance
+Registrar        Participation
+Rulekeepor       Legislation, Participation
+Speaker          Compliance, Participation, Legislation, Participation, Economy
+Tailor           Participation
+Treasuror        Economy, Economy
+Webmastor        Participation
 ------------------------------------------------------------------------

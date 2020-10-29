@@ -1,3 +1,4 @@
+from sys import argv
 from random import choice
 from math import ceil
 from csv import reader
@@ -76,6 +77,9 @@ mapping = {'winner': winner, 'runner_ups': runner_ups,
 # Apply the map we built above to the template to build a new report.
 with open('template.txt', 'r') as infile:
     template = infile.read()
-    
+
+if len(argv) > 1 and argv[1] == "-t":
+    report_name = "test"
+
 with open('reports/' + report_name + '.txt', 'w') as ofile:
     ofile.write(template.format_map(mapping))
