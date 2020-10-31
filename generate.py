@@ -4,6 +4,9 @@ from math import ceil
 from csv import reader
 from datetime import datetime, timezone
 
+# CL flags
+isTest = "-t" in argv
+
 # Determine timestamp
 now = datetime.now(timezone.utc)
 report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
@@ -64,6 +67,7 @@ runner_ups = legacy_players
 boatloads = 1
 econ_pot = 50 * boatloads
 econ_players = len(focus_lists["Economy"])
+
 if econ_players == 0:
     econ_split = "an undefined amount of"
 else:
@@ -78,7 +82,7 @@ mapping = {'winner': winner, 'runner_ups': runner_ups,
 with open('template.txt', 'r') as infile:
     template = infile.read()
 
-if len(argv) > 1 and argv[1] == "-t":
+if isTest:
     report_name = "test"
 
 with open('reports/' + report_name + '.txt', 'w') as ofile:

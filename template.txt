@@ -37,10 +37,10 @@ at the start of the next month.
 {focus_table}
 ------------------------------------------------------------------------
 
-Victory Card
-============
+Legacy Grants
+=============
 
-One random* legacy focused player receives a Victory Card; the others 
+One random* Legacy focused player receives a Victory Card; the others 
 receive a Victory Point.
 
 ------------------------------------------------------------------------
@@ -56,25 +56,21 @@ script at https://github.com/AgoraNomic/Ministor
 Economy Coins
 =============
 
-Economy focused players evenly split a pot of 50 boatloads of coins.
+Economy focused players evenly split a pot of 50 coins.
 
 ------------------------------------------------------------------------
-The pot is currently about {econ_pot} coins* total.
-
 There are {econ_players} Economy focused players, each one may grant emself {econ_split} coins.
 ------------------------------------------------------------------------
-
-* Note: This represents an intermediate value in a calculation, and is 
-rounded to the hundredths on this report for readability. It may not be 
-precise. Only the grantable amount is guaranteed to be accurate.
 
 Office Ministry Interests
 =========================
 
 Officers have +2 voting strength on proposals with a chamber that 
-matches their office's ministry interests.
+matches eir office's ministry interests.*
 
 Office           Interest
 ------------------------------------------------------------------------
 {interest_table}
 ------------------------------------------------------------------------
+
+* This is broken in the current rules. Currently, interest does nothing.
