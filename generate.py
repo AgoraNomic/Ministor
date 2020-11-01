@@ -61,7 +61,7 @@ else:
     winner = choice(legacy_players)
     legacy_players.remove(winner)
 
-runner_ups = legacy_players
+runner_ups = ", ".join(legacy_players)
 
 # Calculate Econ stuff
 boatloads = 1

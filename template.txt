@@ -46,7 +46,7 @@ receive a Victory Point.
 ------------------------------------------------------------------------
 I grant a Victory Card to {winner}.
 
-I grant a Victory Point to each of: {runner_ups}.
+I grant a Victory Point to each of: {runner_ups}
 ------------------------------------------------------------------------
 
 * Chosen by python's random.choice() function from a list of all Victory 
