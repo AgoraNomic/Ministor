@@ -64,7 +64,7 @@ else:
 runner_ups = ", ".join(legacy_players)
 
 # Calculate Econ stuff
-boatloads = 1
+boatloads = 3.652
 econ_pot = 50 * boatloads
 econ_players = len(focus_lists["Economy"])
 
@@ -75,7 +75,7 @@ else:
 
 # Map variables to the template's variables
 mapping = {'econ_players': econ_players, 'econ_split': econ_split,
-           'econ_pot': round(econ_pot,2), 'focus_table': focus_table, 'interest_table': interest_table, 'timestamp': timestamp}
+           'econ_pot': round(econ_pot), 'focus_table': focus_table, 'interest_table': interest_table, 'timestamp': timestamp}
 
 mapping_vic = {'winner': winner, 'runner_ups': runner_ups}
 

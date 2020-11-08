@@ -2,19 +2,18 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: 2020-11-8 03:27 UTC
+Date of this report: 2020-11-8 15:25 UTC
 
 Notices
 =======
 
-This is the first official Ministor's Report. Please be advised that I 
-grant a Victory Card and Victory Points in a section below.
+The Victory Focus rewards have been moved to their own message, which 
+should appear shortly after this one, upon popular request. Feel free to 
+provide any other feedback to improve this report or general Ministor 
+duties.
 
-Economy Focused Players: There is a pending proposal (adJustments) that 
-would change the economy pot from 50 coins to 50 boatloads of coins, 
-which would increase the amount of the split (it is determined 
-continuously). Consider waiting to grant yourself your coins until this 
-proposal has been assessed.
+Economy grants are now based on boatloads of coins, increasing the 
+overall value.
 
 Player Ministry Focuses
 =======================
@@ -50,11 +49,15 @@ Unfocused (8): Fred, Nathan, R. Lee, Shelvacu, Tyler, Zyborg, grok, omd
 Economy Coins
 =============
 
-Economy focused players evenly split a pot of 50 coins.
+Economy focused players evenly split a pot of 50 boatloads of coins. This 
+currently equals roughly 183 coins*.
 
 ------------------------------------------------------------------------
-There are 1 Economy focused players, each one may grant emself 50 coins.
+There are 1 Economy focused players, each one may grant emself 183 coins.
 ------------------------------------------------------------------------
+
+* Rounded here for readability, but the real rounding only happens after 
+the split, which is why the numbers may not appear to add up here.
 
 Office Ministry Interests
 =========================
