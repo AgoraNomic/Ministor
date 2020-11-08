@@ -74,16 +74,23 @@ else:
     econ_split = int(ceil(econ_pot / econ_players))
 
 # Map variables to the template's variables
-mapping = {'winner': winner, 'runner_ups': runner_ups, 
-           'econ_players': econ_players, 'econ_split': econ_split,
+mapping = {'econ_players': econ_players, 'econ_split': econ_split,
            'econ_pot': round(econ_pot,2), 'focus_table': focus_table, 'interest_table': interest_table, 'timestamp': timestamp}
+
+mapping_vic = {'winner': winner, 'runner_ups': runner_ups}
 
 # Apply the map we built above to the template to build a new report.
 with open('template.txt', 'r') as infile:
     template = infile.read()
+
+with open('template-victory.txt', 'r') as infile:
+    template_vic = infile.read()
 
 if isTest:
     report_name = "test"
 
 with open('reports/' + report_name + '.txt', 'w') as ofile:
     ofile.write(template.format_map(mapping))
+
+with open('reports/' + report_name + '-victory.txt', 'w') as ofile:
+    ofile.write(template_vic.format_map(mapping_vic))

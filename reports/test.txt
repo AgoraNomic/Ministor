@@ -2,7 +2,7 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: 2020-11-1 13:56 UTC
+Date of this report: 2020-11-8 03:27 UTC
 
 Notices
 =======
@@ -28,7 +28,7 @@ Focus grants a monthly bonus:
 * Economy - grant yourself a split of the coin pot (exact amount listed 
   below in its own section)
 * Legacy - be granted a card or victory point, randomly (winner listed 
-  below in its own section)
+  in a separate email)
 
 You can Plan To Flip your own focus by announcement - it will be flipped 
 at the start of the next month.
@@ -46,22 +46,6 @@ Participation (1): Murphy
 
 Unfocused (8): Fred, Nathan, R. Lee, Shelvacu, Tyler, Zyborg, grok, omd
 ------------------------------------------------------------------------
-
-Legacy Grants
-=============
-
-One random* Legacy focused player receives a Victory Card; the others 
-receive a Victory Point.
-
-------------------------------------------------------------------------
-I grant a Victory Card to G..
-
-I grant a Victory Point to each of: Cuddlebeam, ATMunn, nix
-------------------------------------------------------------------------
-
-* Chosen by python's random.choice() function from a list of all Victory 
-focused players during the generation of this report. See the full 
-script at https://github.com/AgoraNomic/Ministor
 
 Economy Coins
 =============
@@ -83,17 +67,17 @@ Office           Interest
 ADoP             Participation
 Arbitor          Compliance
 Assessor         Participation, Legislation
-Coopor           Participation
+Coopor           Economy
 Distributor      Participation
-Herald           Participation
-Ministor         
-Notary           Economy, Participation
-Prime Minister   Compliance, Participation, Legislation, Participation, Economy
-Promotor         Legislation
+Herald           Legacy
+Ministor         Economy
+Notary           Compliance, Economy
+Prime Minister   Compliance, Legacy, Legislation, Participation, Economy
+Promotor         Participation, Legislation
 Referee          Compliance
 Registrar        Participation
-Rulekeepor       Legislation, Participation
-Speaker          Compliance, Participation, Legislation, Participation, Economy
+Rulekeepor       Legislation, Legacy
+Speaker          Compliance, Legacy, Legislation, Participation, Economy
 Tailor           Participation
 Treasuror        Economy, Economy
 Webmastor        Participation
