@@ -2,7 +2,7 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: 2020-11-8 15:25 UTC
+Date of this report: 2020-11-29 02:15 UTC
 
 Notices
 =======
@@ -11,9 +11,6 @@ The Victory Focus rewards have been moved to their own message, which
 should appear shortly after this one, upon popular request. Feel free to 
 provide any other feedback to improve this report or general Ministor 
 duties.
-
-Economy grants are now based on boatloads of coins, increasing the 
-overall value.
 
 Player Ministry Focuses
 =======================
@@ -32,18 +29,19 @@ Focus grants a monthly bonus:
 You can Plan To Flip your own focus by announcement - it will be flipped 
 at the start of the next month.
 
+Current Focuses
 ------------------------------------------------------------------------
-Compliance (1): Gaelan
+Compliance (0): 
 
-Economy (1): Trigon
+Economy (3): Falsifian, Gaelan, Trigon
 
-Legacy (4): ATMunn, Cuddlebeam, G., nix
+Legacy (5): ATMunn, Cuddlebeam, G., lucidiot, nix
 
-Legislation (4): Aris, Falsifian, Jason, P.S.S.
+Legislation (3): Aris, Jason, P.S.S.
 
 Participation (1): Murphy
 
-Unfocused (8): Fred, Nathan, R. Lee, Shelvacu, Tyler, Zyborg, grok, omd
+Unfocused (4): Nathan, R. Lee, grok, omd
 ------------------------------------------------------------------------
 
 Economy Coins
@@ -53,7 +51,7 @@ Economy focused players evenly split a pot of 50 boatloads of coins. This
 currently equals roughly 183 coins*.
 
 ------------------------------------------------------------------------
-There are 1 Economy focused players, each one may grant emself 183 coins.
+There are 3 Economy focused players, each one may grant emself 61 coins.
 ------------------------------------------------------------------------
 
 * Rounded here for readability, but the real rounding only happens after 

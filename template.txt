@@ -7,10 +7,7 @@ Date of this report: {timestamp} UTC
 Notices
 =======
 
-The Victory Focus rewards have been moved to their own message, which 
-should appear shortly after this one, upon popular request. Feel free to 
-provide any other feedback to improve this report or general Ministor 
-duties.
+None, at the moment.
 
 Player Ministry Focuses
 =======================
@@ -51,11 +48,9 @@ Office Ministry Interests
 =========================
 
 Officers have +2 voting strength on proposals with a chamber that 
-matches eir office's ministry interests.*
+matches eir office's ministry interests.
 
 Office           Interest
 ------------------------------------------------------------------------
 {interest_table}
 ------------------------------------------------------------------------
-
-* This is broken in the current rules. Currently, interest does nothing.

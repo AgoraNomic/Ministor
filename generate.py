@@ -3,9 +3,26 @@ from random import choice
 from math import ceil
 from csv import reader
 from datetime import datetime, timezone
+from re import sub
 
 # CL flags
 isTest = "-t" in argv
+doUpdate = "-u" in argv
+
+# Update interests for new month
+if doUpdate:
+    with open('focuses.txt', 'r') as file:
+        filedata = file.read()
+        
+    with open('plantoflips.txt', 'r') as file:
+        replacement_list = reader(file, delimiter=',', quotechar="\"")
+        for row in replacement_list:
+            matcher = row[0] + "\S*"
+            new_entry = row[0] + "," + row[1]
+            filedata = sub(matcher,new_entry,filedata)
+            
+    with open('focuses.txt', 'w') as file:
+        file.write(filedata)
 
 # Determine timestamp
 now = datetime.now(timezone.utc)
@@ -64,7 +81,7 @@ else:
 runner_ups = ", ".join(legacy_players)
 
 # Calculate Econ stuff
-boatloads = 3.652
+boatloads = 4.6212
 econ_pot = 50 * boatloads
 econ_players = len(focus_lists["Economy"])
 

@@ -1,7 +1,6 @@
 ADoP,"Participation"
 Arbitor,"Compliance"
 Assessor,"Participation, Legislation"
-Coopor,"Economy"
 Distributor,"Participation"
 Herald,"Legacy"
 Ministor,"Economy"
