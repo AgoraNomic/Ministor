@@ -1,0 +1,84 @@
++-----------------+
+|Ministor's Report|
++-----------------+
+
+Date of this report: 2021-1-3 04:55 UTC
+
+Notices
+=======
+
+The Victory Focus rewards have been moved to their own message, which 
+should appear shortly after this one, upon popular request. Feel free to 
+provide any other feedback to improve this report or general Ministor 
+duties.
+
+Player Ministry Focuses
+=======================
+
+Focus grants a monthly bonus:
+
+* Unfocused - nothing, just the default
+* Compliance - grant yourself a Justice card
+* Legislation - grant yourself a Legislative card
+* Participation - grant yourself a Voting card
+* Economy - grant yourself a split of the coin pot (exact amount listed 
+  below in its own section)
+* Legacy - be granted a card or victory point, randomly (winner listed 
+  in a separate email)
+
+You can Plan To Flip your own focus by announcement - it will be flipped 
+at the start of the next month.
+
+Current Focuses
+------------------------------------------------------------------------
+Compliance (0): 
+
+Economy (3): Falsifian, Gaelan, Trigon
+
+Legacy (5): ATMunn, Cuddlebeam, G., lucidiot, nix
+
+Legislation (2): Aris, Jason
+
+Participation (1): Murphy
+
+Unfocused (6): JTAC, Nathan, R. Lee, Shy Owl, grok, omd
+------------------------------------------------------------------------
+
+Economy Coins
+=============
+
+Economy focused players evenly split a pot of 50 boatloads of coins. This 
+currently equals roughly 231 coins*.
+
+------------------------------------------------------------------------
+There are 3 Economy focused players, each one may grant emself 78 coins.
+------------------------------------------------------------------------
+
+* Rounded here for readability, but the real rounding only happens after 
+the split, which is why the numbers may not appear to add up here.
+
+Office Ministry Interests
+=========================
+
+Officers have +2 voting strength on proposals with a chamber that 
+matches eir office's ministry interests.
+
+Office           Interest
+------------------------------------------------------------------------
+ADoP             Participation
+Arbitor          Compliance
+Assessor         Participation, Legislation
+Distributor      Participation
+Herald           Legacy
+Ministor         Economy
+Notary           Compliance, Economy
+Prime Minister   Compliance, Legacy, Legislation, Participation, Economy
+Promotor         Participation, Legislation
+Referee          Compliance
+Registrar        Participation
+Rulekeepor       Legislation, Legacy
+Speaker          Compliance, Legacy, Legislation, Participation, Economy
+Tailor           Participation
+Treasuror        Economy, Economy
+Webmastor        Participation
+------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Legacy Grants
+=============
+
+One random* Legacy focused player receives a Victory Card; the others 
+receive a Victory Point.
+
+------------------------------------------------------------------------
+I grant a Victory Card to Cuddlebeam.
+
+I grant a Victory Point to each of: G., ATMunn, nix, lucidiot
+------------------------------------------------------------------------
+
+* Chosen by python's random.choice() function from a list of all Victory 
+focused players during the generation of this report. See the full 
+script at https://github.com/AgoraNomic/Ministor
