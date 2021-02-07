@@ -81,7 +81,7 @@ else:
 runner_ups = ", ".join(legacy_players)
 
 # Calculate Econ stuff
-boatloads = 4.6212
+boatloads = 6.1328
 econ_pot = 50 * boatloads
 econ_players = len(focus_lists["Economy"])
 
