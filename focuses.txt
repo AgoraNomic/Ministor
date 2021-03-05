@@ -1,17 +1,17 @@
 omd,Unfocused
-Aris,Legislation
-Gaelan,Economy
-G.,Compliance
+Aris,Participation
+Gaelan,Legislation
+G.,Participation
 Cuddlebeam,Legacy
 Trigon,Legislation
 Murphy,Participation
-ATMunn,Economy
+ATMunn,Legislation
 Falsifian,Legacy
 Jason,Legislation
 nix,Legacy
 R. Lee,Unfocused
 lucidiot,Legacy
-JTAC,Economy
+JTAC,Unfocused
 Ubercrow,Unfocused
-Noah,Economy
+Noah,Unfocused
 Joe,Unfocused

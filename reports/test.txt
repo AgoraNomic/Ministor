@@ -2,7 +2,7 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: 2021-01-03 05:35 UTC
+Date of this report: 2021-03-05 02:39 UTC
 
 Notices
 =======
@@ -18,8 +18,6 @@ Focus grants a monthly bonus:
 * Compliance - grant yourself a Justice card
 * Legislation - grant yourself a Legislative card
 * Participation - grant yourself a Voting card
-* Economy - grant yourself a split of the coin pot (exact amount listed 
-  below in its own section)
 * Legacy - be granted a card or victory point, randomly (winner listed 
   in a separate email)
 
@@ -30,52 +28,11 @@ Current Focuses
 ------------------------------------------------------------------------
 Compliance (0): 
 
-Economy (3): Falsifian, Gaelan, Trigon
+Legacy (4): Cuddlebeam, Falsifian, lucidiot, nix
 
-Legacy (5): ATMunn, Cuddlebeam, G., lucidiot, nix
+Legislation (4): ATMunn, Gaelan, Jason, Trigon
 
-Legislation (2): Aris, Jason
+Participation (3): Aris, G., Murphy
 
-Participation (1): Murphy
-
-Unfocused (6): JTAC, Nathan, R. Lee, Shy Owl, grok, omd
-------------------------------------------------------------------------
-
-Economy Coins
-=============
-
-Economy focused players evenly split a pot of 50 boatloads of coins. This 
-currently equals roughly 231 coins*.
-
-------------------------------------------------------------------------
-There are 3 Economy focused players, each one may grant emself 78 coins.
-------------------------------------------------------------------------
-
-* Rounded here for readability, but the real rounding only happens after 
-the split, which is why the numbers may not appear to add up here.
-
-Office Ministry Interests
-=========================
-
-Officers have +2 voting strength on proposals with a chamber that 
-matches eir office's ministry interests.
-
-Office           Interest
-------------------------------------------------------------------------
-ADoP             Participation
-Arbitor          Compliance
-Assessor         Participation, Legislation
-Distributor      Participation
-Herald           Legacy
-Ministor         Economy
-Notary           Compliance, Economy
-Prime Minister   Compliance, Legacy, Legislation, Participation, Economy
-Promotor         Participation, Legislation
-Referee          Compliance
-Registrar        Participation
-Rulekeepor       Legislation, Legacy
-Speaker          Compliance, Legacy, Legislation, Participation, Economy
-Tailor           Participation
-Treasuror        Economy, Economy
-Webmastor        Participation
+Unfocused (6): JTAC, Joe, Noah, R. Lee, Ubercrow, omd
 ------------------------------------------------------------------------
