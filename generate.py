@@ -1,5 +1,4 @@
 from sys import argv
-from math import ceil
 from csv import reader
 from datetime import datetime, timezone
 from re import sub
