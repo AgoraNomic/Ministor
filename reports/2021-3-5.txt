@@ -1,0 +1,38 @@
++-----------------+
+|Ministor's Report|
++-----------------+
+
+Date of this report: 2021-03-05 02:40 UTC
+
+Notices
+=======
+
+None, at the moment.
+
+Player Ministry Focuses
+=======================
+
+Focus grants a monthly bonus:
+
+* Unfocused - nothing, just the default
+* Compliance - grant yourself a Justice card
+* Legislation - grant yourself a Legislative card
+* Participation - grant yourself a Voting card
+* Legacy - be granted a card or victory point, randomly (winner listed 
+  in a separate email)
+
+You can Plan To Flip your own focus by announcement - it will be flipped 
+at the start of the next month.
+
+Current Focuses
+------------------------------------------------------------------------
+Compliance (0): 
+
+Legacy (4): Cuddlebeam, Falsifian, lucidiot, nix
+
+Legislation (4): ATMunn, Gaelan, Jason, Trigon
+
+Participation (3): Aris, G., Murphy
+
+Unfocused (6): JTAC, Joe, Noah, R. Lee, Ubercrow, omd
+------------------------------------------------------------------------
