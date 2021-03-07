@@ -31,6 +31,7 @@ else:
     report_name = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
 
 timestamp = str(now.year) + "-" + str(now.month).zfill(2) + "-" + str(now.day).zfill(2) + " " + str(now.hour).zfill(2) + ":" + str(now.minute).zfill(2)
+#TODO: use strftime?
 
 # Import focuses
 focuses = {}
