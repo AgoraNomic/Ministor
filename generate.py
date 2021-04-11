@@ -55,13 +55,12 @@ for key in sorted(focus_lists.keys()):
 focus_table = focus_table[:-2]
     
 # Legacy values (rolled in the discord)
-winner = "nix"
-runner_ups = "Cuddlebeam, Falsifian, lucidiot"
+winner = "Falsifian"
 
 # Map variables to the template's variables
 mapping = {'focus_table': focus_table, 'timestamp': timestamp}
 
-mapping_vic = {'winner': winner, 'runner_ups': runner_ups}
+mapping_vic = {'winner': winner}
 
 # Apply the map we built above to the template to build a new report.
 with open('template.txt', 'r') as infile:

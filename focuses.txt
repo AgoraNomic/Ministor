@@ -1,7 +1,7 @@
 omd,Unfocused
 Aris,Participation
 Gaelan,Legislation
-G.,Participation
+G.,Legislation
 Cuddlebeam,Legacy
 Trigon,Legislation
 Murphy,Participation
@@ -10,8 +10,7 @@ Falsifian,Legacy
 Jason,Legislation
 nix,Legacy
 R. Lee,Unfocused
-lucidiot,Legacy
-JTAC,Unfocused
+Aenet,Legislation
+cuddlybanana,Unfocused
+Jumble,Unfocused
 Ubercrow,Unfocused
-Noah,Unfocused
-Joe,Unfocused

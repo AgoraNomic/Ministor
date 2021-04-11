@@ -7,7 +7,8 @@ Date of this report: {timestamp} UTC
 Notices
 =======
 
-The economy focus and interests have been eliminated.
+Legacy players now grant themselves a victory point. The Card is the
+only thing raffled.
 
 Player Ministry Focuses
 =======================
@@ -18,8 +19,8 @@ Focus grants a monthly bonus:
 * Compliance - grant yourself a Justice card
 * Legislation - grant yourself a Legislative card
 * Participation - grant yourself a Voting card
-* Legacy - be granted a card or victory point, randomly (winner listed 
-  in a separate email)
+* Legacy - grant yourself a Victory Point and be entered in a monthly
+  raffle for a Victory Card (resolved in a separate email)
 
 You can Plan To Flip your own focus by announcement - it will be flipped 
 at the start of the next month.

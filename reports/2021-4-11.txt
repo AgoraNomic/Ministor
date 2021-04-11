@@ -2,12 +2,13 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: 2021-04-11 22:49 UTC
+Date of this report: 2021-04-11 22:51 UTC
 
 Notices
 =======
 
-
+Legacy players now grant themselves a victory point. The Card is the
+only thing raffled.
 
 Player Ministry Focuses
 =======================
