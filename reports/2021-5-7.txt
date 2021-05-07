@@ -1,0 +1,39 @@
++-----------------+
+|Ministor's Report|
++-----------------+
+
+Date of this report: 2021-05-07 21:22 UTC
+
+Notices
+=======
+
+Legacy players now grant themselves a victory point. The Card is the
+only thing raffled.
+
+Player Ministry Focuses
+=======================
+
+Focus grants a monthly bonus:
+
+* Unfocused - nothing, just the default
+* Compliance - grant yourself a Justice card
+* Legislation - grant yourself a Legislative card
+* Participation - grant yourself a Voting card
+* Legacy - grant yourself a Victory Point and be entered in a monthly
+  raffle for a Victory Card (resolved in a separate email)
+
+You can Plan To Flip your own focus by announcement - it will be flipped 
+at the start of the next month.
+
+Current Focuses
+------------------------------------------------------------------------
+Compliance (1): Cuddlebeam
+
+Legacy (2): Falsifian, nix
+
+Legislation (6): ATMunn, Aenet, G., Gaelan, Jason, Trigon
+
+Participation (2): Aris, Murphy
+
+Unfocused (4): Jumble, R. Lee, cuddlybanana, omd
+------------------------------------------------------------------------

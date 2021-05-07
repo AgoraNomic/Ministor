@@ -2,7 +2,7 @@ omd,Unfocused
 Aris,Participation
 Gaelan,Legislation
 G.,Legislation
-Cuddlebeam,Legacy
+Cuddlebeam,Compliance
 Trigon,Legislation
 Murphy,Participation
 ATMunn,Legislation
@@ -10,7 +10,6 @@ Falsifian,Legacy
 Jason,Legislation
 nix,Legacy
 R. Lee,Unfocused
-Aenet,Legislation
 cuddlybanana,Unfocused
+Aenet,Legislation
 Jumble,Unfocused
-Ubercrow,Unfocused
