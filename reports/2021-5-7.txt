@@ -2,7 +2,7 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: 2021-05-07 21:22 UTC
+Date of this report: 2021-05-07 21:24 UTC
 
 Notices
 =======
@@ -31,7 +31,7 @@ Compliance (1): Cuddlebeam
 
 Legacy (2): Falsifian, nix
 
-Legislation (6): ATMunn, Aenet, G., Gaelan, Jason, Trigon
+Legislation (7): ATMunn, Aenet, G., Gaelan, Jason, Trigon, seventeenMachine
 
 Participation (2): Aris, Murphy
 
