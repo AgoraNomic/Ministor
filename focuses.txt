@@ -1,16 +1,16 @@
 omd,Unfocused
-Aris,Participation
+Aris,Legislation
 Gaelan,Legislation
 G.,Legislation
 Cuddlebeam,Compliance
 Trigon,Legislation
 Murphy,Participation
-ATMunn,Legislation
+ATMunn,Legacy
 Falsifian,Legacy
 Jason,Legislation
 nix,Legacy
 R. Lee,Unfocused
 cuddlybanana,Unfocused
 Aenet,Legislation
-Jumble,Unfocused
 seventeenMachine,Legislation
+ais523,Unfocused
