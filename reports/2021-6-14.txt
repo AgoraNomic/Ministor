@@ -2,7 +2,7 @@
 |Ministor's Report|
 +-----------------+
 
-Date of this report: 2021-06-14 15:18 UTC
+Date of this report: 2021-06-14 18:47 UTC
 
 Notices
 =======
@@ -29,9 +29,9 @@ Current Focuses
 ------------------------------------------------------------------------
 Compliance (1): Cuddlebeam
 
-Legacy (3): ATMunn, Falsifian, nix
+Legacy (4): ATMunn, Falsifian, G., nix
 
-Legislation (7): Aenet, Aris, G., Gaelan, Jason, Trigon, seventeenMachine
+Legislation (6): Aenet, Aris, Gaelan, Jason, Trigon, seventeenMachine
 
 Participation (1): Murphy
 

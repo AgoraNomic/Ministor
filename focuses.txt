@@ -1,7 +1,7 @@
 omd,Unfocused
 Aris,Legislation
 Gaelan,Legislation
-G.,Legislation
+G.,Legacy
 Cuddlebeam,Compliance
 Trigon,Legislation
 Murphy,Participation
