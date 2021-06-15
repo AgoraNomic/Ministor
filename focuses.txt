@@ -1,9 +1,9 @@
 omd,Unfocused
-Aris,Legislation
+Aris,Participation
 Gaelan,Legislation
 G.,Legacy
 Cuddlebeam,Compliance
-Trigon,Legislation
+Trigon,Legacy
 Murphy,Participation
 ATMunn,Legacy
 Falsifian,Legacy
