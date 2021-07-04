@@ -9,10 +9,10 @@ doUpdate = "-u" in argv
 
 # Update interests for new month
 if doUpdate:
-    with open('focuses.txt', 'r') as file:
+    with open('focuses.csv', 'r') as file:
         filedata = file.read()
         
-    with open('plantoflips.txt', 'r') as file:
+    with open('plantoflips.csv', 'r') as file:
         replacement_list = reader(file, delimiter=',', quotechar="\"")
         for row in replacement_list:
             matcher = row[0] + "\S*"
@@ -41,7 +41,7 @@ focus_lists = {"Unfocused": [], "Legacy": [], "Participation": [], "Compliance":
 max_name_len = 0
 max_focus_len = 0
 
-with open('focuses.txt', 'r') as infile:
+with open('focuses.csv', 'r') as infile:
     infocuses = reader(infile, delimiter=',', quotechar="\"")
     for row in infocuses:
         focus_lists[row[1]].append(row[0])
