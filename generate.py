@@ -55,7 +55,7 @@ for key in sorted(focus_lists.keys()):
 focus_table = focus_table[:-2]
     
 # Legacy values (rolled in the discord)
-winner = "Falsifian"
+winner = "ATMunn"
 
 # Map variables to the template's variables
 mapping = {'focus_table': focus_table, 'timestamp': timestamp}
